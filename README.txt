@@ -82,6 +82,6 @@ This project reads a sensor on a live solid-fuel heating system. It does not
 control the burner and must not be used to replace the burner's safety
 devices. The flashback protection on the feed chute must stay in place at
 all times. Do not rely on this project for carbon monoxide detection; use a
-certified CO alarm.
+certified CO alarm. Do not try at home. This is just for educational purposes.
 
 
